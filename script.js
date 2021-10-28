@@ -7,6 +7,7 @@
 
 var inputField = document.querySelector("#city")
 var button = document.querySelector("#getWeather")
+
     
 // var requestUrl = "https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}"
 function fetchData() {
